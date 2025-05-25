@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ---
 - 🌱 I’m currently learning **HND IT at ATI SLIATE Anuradhapura**
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **Full Stack Development**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **abdurrahman200418@gmail.com**
 
