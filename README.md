@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Abdurrahman</h1>
-<h3 align="center">A passionate full Stack developer from Srilanka</h3>
+<h3 align="center">A passionate full Stack developer and junior Software Engineer from Srilanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdurrahman0418&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrahman0418" /> </p>
 
